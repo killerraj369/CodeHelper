@@ -2,6 +2,8 @@
 A Discord Bot for Coders. Now Contests and Hackathons related Information under your command. Executes Code in Discord Itself.
 Provides Jokes, News, Quotes and fun things.
 
+Invite Link - https://discord.com/api/oauth2/authorize?client_id=992015431395201137&permissions=8&scope=bot
+
 Supported - C, C++, Python, Java, JavaScript, Golang, C# etc. 
 
 # Commands
