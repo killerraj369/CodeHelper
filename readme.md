@@ -24,7 +24,7 @@ Invite Link - https://discord.com/api/oauth2/authorize?client_id=992015431395201
 
 9.) .contest today -> Gives you today's contest
 
-10.) .hackathon  -> Gives you ongoing and upcoming hackathons from hackerearth
+10.) .hackathons  -> Gives you ongoing and upcoming hackathons from hackerearth
 
 11.) .help -> Gives you help 
 
